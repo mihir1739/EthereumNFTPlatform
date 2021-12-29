@@ -1,7 +1,7 @@
 {
-  "name": "demo",
+  "name": "EthereumNFTMarketPlace",
   "version": "1.0.0",
-  "description": "insurance application",
+  "description": "NFT application",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "lite-server"
   },
-  "author": "calvin",
+  "author": "Santhosh and Calvin from Ignitus Networks",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
