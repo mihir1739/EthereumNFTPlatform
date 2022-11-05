@@ -11,7 +11,7 @@ contract gor{
     address payable own;
     
     constructor () public{
-          own = msg.sender;
+        own = msg.sender;
     }
     
     struct payment_details{
